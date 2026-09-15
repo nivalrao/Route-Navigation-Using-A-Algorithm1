@@ -369,9 +369,25 @@ The current project uses a manually created weighted map. It can be enhanced in 
 
 ## 13. Team Members
 
-| Name | Role |
-|------|------|
 | YOUR NAME | NIVAL RAO J R - PROJECT DEVELOPER|
 | TEAM MEMBER 2 | NOVAL ESWAR |
 | TEAM MEMBER 3 | VIJAY D S |
 
+```
+## 14. References
+
+1. Python Documentation  
+   https://docs.python.org/3/
+
+2. Matplotlib Documentation  
+   https://matplotlib.org/stable/
+
+3. A* Search Algorithm concepts from Artificial Intelligence and pathfinding resources.
+
+4. Graph Search and Heuristic Search concepts from Artificial Intelligence textbooks.
+
+## 15. License
+
+This project is developed for educational purposes as part of an academic assignment.
+
+The source code may be used, modified, and shared for learning and educational purposes.
